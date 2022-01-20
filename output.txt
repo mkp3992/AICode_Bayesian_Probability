@@ -1,0 +1,39 @@
+                    Baseball_game_on_TV  ...  George_feeds_cat
+Evenings in a year                       ...                  
+0                                     0  ...                 1
+1                                     0  ...                 1
+2                                     0  ...                 1
+3                                     0  ...                 1
+4                                     0  ...                 1
+...                                 ...  ...               ...
+360                                   0  ...                 0
+361                                   0  ...                 1
+362                                   1  ...                 0
+363                                   0  ...                 1
+364                                   0  ...                 1
+
+[365 rows x 4 columns]
+No of times if there is no baseball game on TV: 254
+No of times if there is a baseball game on TV: 111
+No of times if George does not watch TV: 232
+No of times if George watches TV: 133
+No of times when George ran out of food for cat: 303
+No of times when George had food for cat: 62
+No of times when George did not feed cat: 89
+No of times when George feeds cat: 276
+When George_feeds_cat is True, George_watches_TV and Out_of_cat_food is False: 186
+When George_feeds_cat is True, George_watches_TV is False and Out_of_cat_food is True: 12
+When George_feeds_cat is True, George_watches_TV is True and Out_of_cat_food is False: 77
+When George_feeds_cat is True, George_watches_TV and Out_of_cat_food is True: 1
+When George_feeds_cat is False, George_watches_TV and Out_of_cat_food is False: 8
+When George_feeds_cat is False, George_watches_TV is False and Out_of_cat_food is True: 26
+When George_feeds_cat is False, George_watches_TV is True and Out_of_cat_food is False: 32
+When George_feeds_cat is False, George_watches_TV and Out_of_cat_food is True: 23
+When George_watches_TV is True and Baseball_game_on_TV is False: 30
+When George_watches_TV is True and Baseball_game_on_TV is True: 103
+When George_watches_TV is False and Baseball_game_on_TV is True: 8
+When George_watches_TV is False and Baseball_game_on_TV is False: 224
+When George_watches_TV and Out_of_cat_food is False: 194
+When George_watches_TV is False and Out_of_cat_food is True: 38
+When George_watches_TV is True and Out_of_cat_food is False: 109
+When George_watches_TV and Out_of_cat_food is True: 24
